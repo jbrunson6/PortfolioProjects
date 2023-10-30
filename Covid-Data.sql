@@ -1,5 +1,6 @@
 -- Data from https://ourworldindata.org/covid-deaths
 -- Data initially cleaned in Excel removing unnecessary columns
+-- Check out my tableau dashboard here: https://public.tableau.com/app/profile/jay.brunson/viz/Covid-19Tracker_16974775070770/Dashboard1
 
 -- Creating initial tables
 
